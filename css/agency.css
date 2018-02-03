@@ -20,6 +20,16 @@ div {
   padding: 20px;
 }
 
+.img-logo {
+  padding: 0.4rem;
+  border-radius: 0.25rem;
+  margin-left: 0.2rem;
+  max-width: auto;
+  /* max-height: 70%; */
+  /* margin: 0 auto; */
+  height: 100px;
+}
+
 div.block {
   padding-top: 100px;
   margin-bottom: 0px;
@@ -248,6 +258,11 @@ img::-moz-selection {
     padding: 12px 0;
     /* height: 20px; */
   }
+}
+
+.img-thumbnails {
+  height: 100px;
+  width: 90%;
 }
 
 header.masthead {
