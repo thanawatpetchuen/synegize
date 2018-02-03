@@ -30,6 +30,16 @@ div {
   height: 100px;
 }
 
+.bg-wall {
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 div.block {
   padding-top: 100px;
   margin-bottom: 0px;
